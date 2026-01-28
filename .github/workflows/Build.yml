@@ -1,6 +1,6 @@
 # Pretend to build
 
-name: Build
+name: Buildxxx
 
 on:
   push:
